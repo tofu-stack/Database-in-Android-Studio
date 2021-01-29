@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Database_Quiz2</string>
+    <string name="CustomerName">Customer Name</string>
+    <string name="Age">Age</string>
+    <string name="ActiveCustomer" />
+    <string name="Activecustomer">Active Customer</string>
+</resources>
